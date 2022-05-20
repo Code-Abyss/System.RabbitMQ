@@ -17,7 +17,7 @@ namespace System.API.Controllers
         {
             _mediator = mediator;
         }
-        [HttpPost(Name = "AddPatient")]
+        [HttpPost(Name = "CreateOrder")]
         public async Task<ActionResult<Guid>> Create([FromBody] CreateOrderCommand CreateOrderCommand)
         {
             Guid id = await _mediator.Send(CreateOrderCommand);

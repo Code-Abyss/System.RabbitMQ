@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Persistence\\System.Persistence.csproj": {}
+    "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Persistence\\System.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\System.Application.csproj": {
+    "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\System.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\System.Application.csproj",
+        "projectUniqueName": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\System.Application.csproj",
         "projectName": "System.Application",
-        "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\System.Application.csproj",
-        "packagesPath": "C:\\Users\\m.bwedani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\obj\\",
+        "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\System.Application.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m.bwedani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj": {
-                "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj"
+              "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj"
               }
             }
           }
@@ -84,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj": {
+    "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj",
         "projectName": "System.Domain",
-        "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj",
-        "packagesPath": "C:\\Users\\m.bwedani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\obj\\",
+        "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m.bwedani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,21 +138,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Persistence\\System.Persistence.csproj": {
+    "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Persistence\\System.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Persistence\\System.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Persistence\\System.Persistence.csproj",
         "projectName": "System.Persistence",
-        "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Persistence\\System.Persistence.csproj",
-        "packagesPath": "C:\\Users\\m.bwedani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Persistence\\System.Persistence.csproj",
+        "packagesPath": "C:\\Users\\FAILURE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m.bwedani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FAILURE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,11 +166,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\System.Application.csproj": {
-                "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Application\\System.Application.csproj"
+              "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\System.Application.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Application\\System.Application.csproj"
               },
-              "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj": {
-                "projectPath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Domain\\System.Domain.csproj"
+              "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj": {
+                "projectPath": "C:\\Users\\FAILURE\\Source\\Repos\\System.RabbitMQ\\System.Domain\\System.Domain.csproj"
               }
             }
           }
@@ -221,7 +221,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
         }
       }
     }
