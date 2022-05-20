@@ -1,0 +1,20 @@
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\bin\Debug\netcoreapp3.1\System.Services.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\bin\Debug\netcoreapp3.1\System.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\bin\Debug\netcoreapp3.1\System.Services.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Services\obj\Debug\netcoreapp3.1\System.Services.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\bin\Debug\netcoreapp3.1\System.Services.deps.json
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\bin\Debug\netcoreapp3.1\System.Services.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\bin\Debug\netcoreapp3.1\System.Services.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Services\obj\Debug\netcoreapp3.1\System.Services.pdb

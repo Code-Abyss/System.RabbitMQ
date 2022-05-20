@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbZeLRN4645s0Kbo9yBgBUfY2E8dZ1yBLQwvD6iIz2yJyMD7rKqNYgBcnPCZJAeB+34T4A9bEbt4M+HBK/iPPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.bwedani\\Downloads\\System.RabbitMQ-main\\System.Services\\System.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.bwedani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\m.bwedani\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\m.bwedani\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\m.bwedani\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\m.bwedani\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

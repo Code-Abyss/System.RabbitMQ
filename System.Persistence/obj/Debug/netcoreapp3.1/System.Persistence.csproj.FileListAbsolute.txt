@@ -1,0 +1,56 @@
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.deps.json
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.json
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.dev.json
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.dll
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.dll
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.pdb
+C:\Users\m.bwedani\source\repos\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.pdb
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfo.cs
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CopyComplete
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\m.bwedani\source\repos\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.genruntimeconfig.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.deps.json
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.json
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.dev.json
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.pdb
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.AssemblyReference.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfoInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfo.cs
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CopyComplete
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.genruntimeconfig.cache
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Services.dll
+C:\Users\masab\Desktop\مجلد جديد (2)\System\System.Persistence\bin\Debug\netcoreapp3.1\System.Services.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.deps.json
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.json
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.runtimeconfig.dev.json
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Application.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\bin\Debug\netcoreapp3.1\System.Domain.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.AssemblyReference.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfoInputs.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.AssemblyInfo.cs
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.csproj.CopyComplete
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.dll
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.pdb
+C:\Users\m.bwedani\Downloads\System.RabbitMQ-main\System.Persistence\obj\Debug\netcoreapp3.1\System.Persistence.genruntimeconfig.cache
